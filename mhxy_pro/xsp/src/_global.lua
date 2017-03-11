@@ -3,7 +3,7 @@
 --2017.03.08
 
 -- 是否处于调试状态
-_isDebug = true
+_isDebug = false
 
 _fsw, _fsh = getScreenSize()
 _sw = _fsh - 1

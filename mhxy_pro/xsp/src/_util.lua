@@ -148,3 +148,11 @@ printTable = function (root, notPrint, params)
 		print("[printr error]: not support type")
 	end
 end
+
+findMultiColorInRegionFuzzyExt = function (...)		
+		--mSleep(1000)
+		keepScreen(true)
+		local x,y = findMultiColorInRegionFuzzy(arg[1],arg[2],arg[3],arg[4],arg[5],arg[6],arg[7])
+		keepScreen(false)
+		return x,y
+end
