@@ -1,18 +1,20 @@
 [SOURCE]
-1\SOURCEFILE=C:/Users/\x660e/Documents/xspworkspace/mhxy_pro/xsp/src/_config.lua
-2\SOURCEFILE=C:/Users/\x660e/Documents/xspworkspace/mhxy_pro/xsp/src/_global.lua
-size=8
-3\SOURCEFILE=C:/Users/\x660e/Documents/xspworkspace/mhxy_pro/xsp/src/_util.lua
-4\SOURCEFILE=C:/Users/\x660e/Documents/xspworkspace/mhxy_pro/xsp/src/main.lua
-5\SOURCEFILE=C:/Users/\x660e/Documents/xspworkspace/mhxy_pro/xsp/src/r5625.lua
-6\SOURCEFILE=C:/Users/\x660e/Documents/xspworkspace/mhxy_pro/xsp/src/r6000.lua
-7\SOURCEFILE=C:/Users/\x660e/Documents/xspworkspace/mhxy_pro/xsp/src/r6250.lua
-8\SOURCEFILE=C:/Users/\x660e/Documents/xspworkspace/mhxy_pro/xsp/src/r7500.lua
-9\SOURCEFILE=C:/Users/\x660e/Documents/xspworkspace/mhxy_pro/xsp/src/_action.lua
-10\SOURCEFILE=C:/Users/\x660e/Documents/xspworkspace/mhxy_pro/xsp/src/_do.lua
+1\SOURCEFILE=H:/appgame/lua_xx/mhxy_pro/xsp/src/_config.lua
+2\SOURCEFILE=H:/appgame/lua_xx/mhxy_pro/xsp/src/_global.lua
+size=11
+3\SOURCEFILE=H:/appgame/lua_xx/mhxy_pro/xsp/src/_util.lua
+4\SOURCEFILE=H:/appgame/lua_xx/mhxy_pro/xsp/src/main.lua
+5\SOURCEFILE=H:/appgame/lua_xx/mhxy_pro/xsp/src/main_ver1.lua
+6\SOURCEFILE=H:/appgame/lua_xx/mhxy_pro/xsp/src/r5625.lua
+7\SOURCEFILE=H:/appgame/lua_xx/mhxy_pro/xsp/src/r5625_ver1.lua
+8\SOURCEFILE=H:/appgame/lua_xx/mhxy_pro/xsp/src/r6000.lua
+9\SOURCEFILE=H:/appgame/lua_xx/mhxy_pro/xsp/src/r6250.lua
+10\SOURCEFILE=H:/appgame/lua_xx/mhxy_pro/xsp/src/r7500.lua
+11\SOURCEFILE=H:/appgame/lua_xx/mhxy_pro/xsp/src/Libs/JSON.lua
+12\SOURCEFILE=H:/appgame/lua_xx/mhxy_pro/xsp/src/Libs/JSON.lua
 
 [UI]
-1\UIFILE=C:/Users/\x660e/Documents/xspworkspace/mhxy_pro/xsp/ui/ui.json
+1\UIFILE=H:/appgame/lua_xx/mhxy_pro/xsp/ui/ui.json
 size=1
 
 [RES]

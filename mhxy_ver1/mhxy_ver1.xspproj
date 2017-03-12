@@ -1,0 +1,17 @@
+[SOURCE]
+1\SOURCEFILE=H:/appgame/lua_xx/mhxy_ver1/xsp/src/_config.lua
+2\SOURCEFILE=H:/appgame/lua_xx/mhxy_ver1/xsp/src/_global.lua
+3\SOURCEFILE=H:/appgame/lua_xx/mhxy_ver1/xsp/src/_util.lua
+4\SOURCEFILE=H:/appgame/lua_xx/mhxy_ver1/xsp/src/common.lua
+size=5
+5\SOURCEFILE=H:/appgame/lua_xx/mhxy_ver1/xsp/src/main.lua
+
+[UI]
+1\UIFILE=H:/appgame/lua_xx/mhxy_ver1/xsp/ui/ui.json
+size=1
+
+[RES]
+1\RESFILE=H:/appgame/lua_xx/mhxy_ver1/xsp/res/zk - \x526f\x672c.txt
+2\RESFILE=H:/appgame/lua_xx/mhxy_ver1/xsp/res/zk.txt
+3\RESFILE=H:/appgame/lua_xx/mhxy_ver1/xsp/res/zkxy.txt
+size=3

@@ -104,21 +104,9 @@ traceLog = function (...)
 end
 
 -- 打印脚本运行提示（面向用户）
-_userMsg = ""
 showMsg = function(msg)
-	_userMsg = msg
-	showMsgCore()
+	toast(msg)
 end
-
-showMsgCore = coroutine.wrap(function()
-		--toast(msg)
-		local id = createHUD();
-		while true do
-			showHUD(id,_userMsg,16,"0xffffffff","0x99282828",0,0,_sh,335,46);     --显示HUD内容  
-			coroutine.yield()
-			--hideHUD(id) 
-		end
-end)
 
 -- 格式化输出table（力荐）
 printTable = function (root, notPrint, params)
@@ -162,16 +150,9 @@ printTable = function (root, notPrint, params)
 end
 
 findMultiColorInRegionFuzzyExt = function (...)		
+		--mSleep(1000)
 		keepScreen(true)
 		local x,y = findMultiColorInRegionFuzzy(arg[1],arg[2],arg[3],arg[4],arg[5],arg[6],arg[7])
 		keepScreen(false)
 		return x,y
 end
-
--- JSON模块
-lo_json = {}
-lo_json.obj = require('Libs.JSON')
-lo_json.decode = function(x) return lo_json.obj:decode(x) end
-lo_json.encode = function(x) return lo_json.obj:encode(x) end
-lo_json.encode_pretty = function(x) return lo_json.obj:encode_pretty(x) end;
-
