@@ -1,0 +1,13 @@
+[SOURCE]
+1\SOURCEFILE=C:/Users/myjac/Documents/xspworkspace/wzry/xsp/src/main.lua
+2\SOURCEFILE=C:/Users/myjac/Documents/xspworkspace/wzry/xsp/src/app.lua
+size=4
+3\SOURCEFILE=C:/Users/myjac/Documents/xspworkspace/wzry/xsp/src/util.lua
+4\SOURCEFILE=C:/Users/myjac/Documents/xspworkspace/wzry/xsp/src/r5625.lua
+
+[UI]
+1\UIFILE=C:/Users/myjac/Documents/xspworkspace/wzry/xsp/ui/ui.json
+size=1
+
+[RES]
+size=0
