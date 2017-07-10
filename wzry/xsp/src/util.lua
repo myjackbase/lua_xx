@@ -120,7 +120,7 @@ showMsgCore = coroutine.wrap(function()
 		--toast(msg)
 		local id = createHUD();
 		while true do
-			showHUD(id,_userMsg,16,"0xffffffff","0x99282828",0,0,_sh,335,46);     --显示HUD内容  
+			showHUD(id,_userMsg,46,"0xffffffff","0x99282828",0,0,_sh-98,700,98);     --显示HUD内容  
 			coroutine.yield()
 			--hideHUD(id) 
 		end
